@@ -1,3 +1,9 @@
+<h1>
+  <img src="https://github.com/user-attachments/assets/e230e851-0e27-4150-963f-60af1ad4f188" width="50" style="vertical-align: middle; margin-right: 10px;">
+  UB AI for Good Hackathon 2025
+</h1>
+
+**Innovating with AI to create impactful solutions for the future!**
 
 🌍 Triage360: AI-Powered Non-Life-Threatening Emergency Responder  
 🎯 **Inspiration**  
