@@ -1,5 +1,5 @@
 
-🌍 Triage360: AI-Powered Non-Life-Threatening Emergency Responder
+🌍 Triage360: AI-Powered Non-Life-Threatening Emergency Responder  
 🎯 **Inspiration**  
 The development of Triage360 emerged from a critical experience in our personal lives.
 One of my friends fell in a soccer practice and broke his ankle. We didn't know what to do until the next morning and didn't know how long we would have to wait till we got an appointment at our nearest clinic.
